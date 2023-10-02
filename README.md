@@ -20,7 +20,7 @@ Current version is **v1.0.1-alpha**
 In your go project, run the following command
 
 ```shell
-go get github.com/Lucas-Palomo/go-mycms-configfile@v1.0.0-alpha
+go get github.com/Lucas-Palomo/go-mycms-configfile@v1.0.1-alpha
 ```
 
 ## Parse Example
