@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"github.com/BurntSushi/toml"
-	"go-mycms-configfile/internal/utils"
+	"github.com/Lucas-Palomo/go-mycms-configfile/internal/utils"
 	"gopkg.in/yaml.v3"
 )
 
