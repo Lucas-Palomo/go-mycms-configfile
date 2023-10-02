@@ -10,10 +10,10 @@ The project configuration can be stored on the following file types:
 
 ## Versions
 
-Current version is **v1.0.0-alpha**
+Current version is **v1.0.1-alpha**
 
 - [v1.0.0-alpha](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v1.0.0-alpha)
-
+- [v1.0.1-alpha](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v1.0.1-alpha)
 
 ## Install
 
