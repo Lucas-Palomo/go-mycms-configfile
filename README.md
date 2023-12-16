@@ -10,17 +10,18 @@ The project configuration can be stored on the following file types:
 
 ## Versions
 
-Current version is **v1.0.1-alpha**
+Current version is **v1.0.2-alpha**
 
 - [v1.0.0-alpha](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v1.0.0-alpha)
 - [v1.0.1-alpha](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v1.0.1-alpha)
+- [v1.0.2-alpha](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v1.0.2-alpha)
 
 ## Install
 
 In your go project, run the following command
 
 ```shell
-go get github.com/Lucas-Palomo/go-mycms-configfile@v1.0.1-alpha
+go get github.com/Lucas-Palomo/go-mycms-configfile@latest
 ```
 
 ## Parse Example
@@ -41,7 +42,7 @@ Calling toml configuration is easy, see the bellow code:
 package main
 
 import (
-	ConfigFile "github.com/Lucas-Palomo/go-mycms-configfile/pkg"
+	ConfigFile "github.com/Lucas-Palomo/go-mycms-configfile/configfile"
 )
 
 type Conf struct {
