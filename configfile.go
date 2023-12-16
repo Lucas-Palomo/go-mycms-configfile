@@ -1,4 +1,4 @@
-package pkg
+package go_mycms_configfile
 
 import (
 	"encoding/json"
