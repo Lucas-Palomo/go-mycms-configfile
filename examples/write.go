@@ -1,8 +1,8 @@
 package main
 
 import (
-	ConfigFile "github.com/Lucas-Palomo/go-mycms-configfile/configfile"
-	Model "github.com/Lucas-Palomo/go-mycms-configfile/examples/internal"
+	ConfigFile "github.com/Lucas-Palomo/go-mycms-configfile/v2/configfile"
+	Model "github.com/Lucas-Palomo/go-mycms-configfile/v2/examples/internal"
 	"log"
 )
 

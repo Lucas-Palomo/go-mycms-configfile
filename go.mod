@@ -1,4 +1,4 @@
-module github.com/Lucas-Palomo/go-mycms-configfile
+module github.com/Lucas-Palomo/go-mycms-configfile/v2
 
 go 1.21
 

@@ -3,7 +3,7 @@ package configfile
 import (
 	"encoding/json"
 	"encoding/xml"
-	"github.com/Lucas-Palomo/go-mycms-configfile/internal/utils"
+	"github.com/Lucas-Palomo/go-mycms-configfile/v2/internal/utils"
 	"github.com/pelletier/go-toml/v2"
 	"gopkg.in/yaml.v3"
 	"os"
