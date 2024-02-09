@@ -1,5 +1,1 @@
-{
-    "test": {
-      "message": "json"
-    }
-}
+{"test":{"message":"it's a json"}}

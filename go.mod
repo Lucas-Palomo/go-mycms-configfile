@@ -3,7 +3,7 @@ module github.com/Lucas-Palomo/go-mycms-configfile
 go 1.21
 
 require (
-	github.com/BurntSushi/toml v1.3.2
+	github.com/pelletier/go-toml/v2 v2.1.1
 	github.com/stretchr/testify v1.8.4
 	gopkg.in/yaml.v3 v3.0.1
 )

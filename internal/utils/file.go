@@ -6,8 +6,9 @@ import (
 )
 
 var (
-	Open    = os.Open
-	ReadAll = io.ReadAll
+	Open     = os.Open
+	ReadAll  = io.ReadAll
+	OpenFile = os.OpenFile
 )
 
 func ReadFile(filepath string) ([]byte, error) {
