@@ -10,19 +10,19 @@ The project configuration can be stored on the following file types:
 
 ## Versions
 
-Current version is **v2.0.1**
+Current version is **v2.0.2**
 
 - [v1.0.0-alpha](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v1.0.0-alpha)
 - [v1.0.1-alpha](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v1.0.1-alpha)
 - [v1.0.2-alpha](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v1.0.2-alpha)
-- [v2.0.1](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v2.0.1)
+- [v2.0.2](https://github.com/Lucas-Palomo/go-mycms-configfile/releases/tag/v2.0.2)
 
 ## Install
 
 In your go project, run the following command
 
 ```shell
-go get github.com/Lucas-Palomo/go-mycms-configfile@latest
+go get github.com/Lucas-Palomo/go-mycms-configfile/v2@latest
 ```
 ## Examples
 
